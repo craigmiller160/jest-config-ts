@@ -1,4 +1,4 @@
-const { createTransformer } = require('ts-jest');
+const { createTransformer } = require('ts-jest').default;
 
 module.exports = {
   collectCoverageFrom: [
