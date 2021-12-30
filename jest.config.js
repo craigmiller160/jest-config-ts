@@ -9,7 +9,7 @@ module.exports = {
     '<rootDir>/test/**/*.{test,Spec}.{ts,tsx}'
   ],
   transform: {
-    '^.+\\.tsx?$': createTransformer()
+    '^.+\\.tsx?$': 'ts-jest'
   },
   globals: {
     'ts-jest': {
