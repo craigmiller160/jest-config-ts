@@ -1,6 +1,6 @@
 {
   "name": "@craigmiller160/jest-config-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "jest.config.js",
   "author": "craigmiller160",
   "publishConfig": {
