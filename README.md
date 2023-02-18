@@ -2,6 +2,10 @@
 
 A Jest configuration to add support for TypeScript projects.
 
+# THIS IS DEPRECATED
+
+`@craigmiller160/jest-config` v2.0.0+ has been upgraded to use `@swc/jest` as its transpiler, giving it seamless support for both JS and TS syntax. Therefore this library is no longer needed.
+
 ## How to Use
 
 First, install this library with `yarn install --dev @craigmiller160/jest-config-ts`. If you need to merge this with other configs, also install the `config-mege` library with `yarn install --dev @craigmiller160/config-merge`.
